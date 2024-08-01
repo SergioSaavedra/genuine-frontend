@@ -1,0 +1,22 @@
+# Dependencias de node
+node_modules/
+
+# Archivos de registro
+npm-debug.log
+yarn-error.log
+
+# Salidas de producción
+dist/
+build/
+
+# Directorios del entorno de desarrollo
+.DS_Store
+.vscode/
+.idea/
+
+# Archivos del entorno de desarrollo local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

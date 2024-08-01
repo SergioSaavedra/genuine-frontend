@@ -6,7 +6,7 @@ npm-debug.log
 yarn-error.log
 
 # Salidas de producción
-dist/
+# dist/
 build/
 
 # Directorios del entorno de desarrollo
